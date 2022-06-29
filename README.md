@@ -6,12 +6,12 @@
 
 5)You are given a text file that has only ASCII characters. First, edit the text so that you are left with only lowercase letters (uppercase and lowercase) and space. First, split this text into words according to the space. In the words you have, calculate the following statistics: a) what are the ten most popular words? If some appear the same number and come out more than ten, keep whichever you think or by chance. b) What are the first three combinations of the first two letters that most words begin with? c) Repeat the same for three letters.
 
-7)Let's be an ASCII text file that contains a Python dictionary in each line. Each line dictionary contains the same keys as the other lines. These keys contain values ​​that can only be numbers or text. Write code that reads this file, displays the available keys to the user and asks which of the available keys he is interested in. Then for this key displays the most popular value, the highest and the lowest.
-Example:
-Suppose your file contains the following dictionaries
-{"x": 3, "y": 4, "name": "bob"}
-{"x": 13, "y": - 4, "name": "malory"}
-{"x": - 3, "y": 104, "name": "trudy"}
-{"x": 1, "y": 14, "name": "alice"}
-Your password is displayed to the user: x, y, name
-Asks the user for the key. If he selects y, your code will have to return the values ​​-4 and 104.
+7)Let's be an ASCII text file that contains a Python dictionary in each line. Each line dictionary contains the same keys as the other lines. These keys contain values that can only be numbers or text. Write code that reads this file, displays the available keys to the user and asks which of the available keys he is interested in. Then for this key displays the most popular value, the highest and the lowest.<br>
+Example:<br>
+Suppose your file contains the following dictionaries<br>
+{"x": 3, "y": 4, "name": "bob"}<br>
+{"x": 13, "y": - 4, "name": "malory"}<br>
+{"x": - 3, "y": 104, "name": "trudy"}<br>
+{"x": 1, "y": 14, "name": "alice"}<br>
+Your password is displayed to the user: x, y, name<br>
+Asks the user for the key. If he selects y, your code will have to return the values -4 and 104.
