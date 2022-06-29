@@ -1,0 +1,9 @@
+{"x":3,"y":4,"name":"bob"}
+{"x":13,"y":-4,"name":"malory"}
+{"x":-3,"y":104,"name":"trudy"}
+{"x":1,"y":14,"name":"alice"}
+{"x":6,"y":-4,"name":"John"}
+{"x":-43,"y":154,"name":"Barny"}
+{"x":43,"y":-89,"name":"Marley"}
+{"x":75,"y":59,"name":"Christine"}
+{"x":3,"y":14,"name":"bob"}
